@@ -5,5 +5,9 @@ public class Main {
         System.out.println("hello world!");
         System.out.println("hello Syntax!");
         System.out.println("hello Batch20");
+        System.out.println("hello world!");
+        System.out.println("hello Syntax!");
+        System.out.println("hello Batch20");
+    
     }
 }
